@@ -1,2 +1,1 @@
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FHideenKO)
-https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FHideenKO
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
