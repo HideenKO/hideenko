@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Farkhad
 #### I’m an aspiring Junior Data Scientist currently learning at SenatorovAI. I enjoy exploring data, building models, and discovering insights through machine learning.
-![I’m an aspiring Junior Data Scientist currently learning at SenatorovAI. I enjoy exploring data, building models, and discovering insights through machine learning.](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 🔹 Passionate about learning new things every day
 🔹 Interested in Data Science, AI, and problem-solving
@@ -16,11 +16,10 @@ Model evaluation and improvement
 
 🚀 My goal is to grow into a skilled Data Scientist and contribute to meaningful projects.
 
-Skills: Python / Numpy / Pandas / SQL / Sk-learn
+Skills: Java / Numpy / Pandas / SQL / Sk-learn / Python / SpingBoot
 
-- 🔭 I’m currently working on this page. https://github.com/SENATOROVAI 
-- 🌱 I’m currently learning Math, ML 
-- 📫 How to reach me: lapis24@mail.ru 
+- 🌱 I’m currently learning Java, SpingBoot 
+- 📫 How to reach me: lapishideen@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HideenKO)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/HideenKO/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/hideenko)  
