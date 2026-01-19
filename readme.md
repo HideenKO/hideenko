@@ -1,32 +1,40 @@
-### Hi there 👋, my name is Farkhad
-#### I’m an aspiring Junior Data Scientist currently learning at SenatorovAI. I enjoy exploring data, building models, and discovering insights through machine learning.
-(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+Hi there 👋, my name is Farkhad
+I’m an aspiring Junior Data Analyst, currently studying analytics and gradually exploring Data Science. I enjoy working with data, finding patterns, and turning raw numbers into clear insights.
 
-🔹 Passionate about learning new things every day
-🔹 Interested in Data Science, AI, and problem-solving
-🔹 Open to collaboration on projects that involve data analysis, ML, or research
+(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+)
+
+🔹 Focused on data analysis and business insights
+🔹 Interested in Data Analytics, Data Science fundamentals, and problem-solving
+🔹 Open to collaboration on projects related to data analysis, dashboards, reporting, and ML basics
 
 📚 Currently focused on:
 
-Machine Learning fundamentals
+Data analysis fundamentals
 
 Data preprocessing & feature engineering
 
-Model evaluation and improvement
+Exploratory Data Analysis (EDA)
 
-🚀 My goal is to grow into a skilled Data Scientist and contribute to meaningful projects.
+Model evaluation and basic machine learning concepts
 
-Skills: Java / Numpy / Pandas / SQL / Sk-learn / Python / SpingBoot
+🚀 My goal is to grow into a strong Data Analyst, build a solid analytical foundation, and gradually deepen my skills in Data Science to contribute to meaningful, data-driven projects.
 
-- 🌱 I’m currently learning Java, SpingBoot 
-- 📫 How to reach me: lapishideen@gmail.com 
+Skills:
+Java / Python / NumPy / Pandas / SQL / Scikit-learn / Spring Boot
 
+🌱 I’m currently learning Data Analytics, Python for data, and gradually Data Science
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HideenKO)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/HideenKO/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/hideenko)  
+📫 How to reach me: lapishideen@gmail.com
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HideenKO)](https://github.com/ryo-ma/github-profile-trophy)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=HideenKO)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
